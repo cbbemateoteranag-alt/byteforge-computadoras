@@ -2,7 +2,7 @@
 
 Tienda web de demostración en JavaScript nativo, Vite y Supabase. Incluye catálogo remoto, carrito y creación transaccional de pedidos.
 
-Repositorio público: <https://github.com/AdrianLav/byteforge-computadoras>
+Repositorio público: <https://github.com/cbbemateoteranag-alt/byteforge-computadoras>
 
 ## Ejecutar localmente
 
